@@ -481,7 +481,7 @@ function Contato() {
           </div>
           <div className="contato-dados">
             <a href={linkZap(`${ORC}.`)} target="_blank" rel="noopener">(11) 96356-2532</a>
-            <a href="mailto:tglslpm@gmail.com">tglslpm@gmail.com</a>
+            <a href="mailto:comercial@tglservicos.com.br">comercial@tglservicos.com.br</a>
           </div>
         </div>
         <div className="contato-grade">
